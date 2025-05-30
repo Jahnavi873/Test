@@ -2,6 +2,8 @@
 int main()
 {
 int a,b;
-printf("enter the value of a:")
-printf("enterthe vaule of b:")
+printf("enter bgbgbtthe value of a:")
+priintf("enterthe vauuytutule of b:")
+abcd
+efgh
 
